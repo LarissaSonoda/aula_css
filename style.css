@@ -1,0 +1,35 @@
+
+        .pai {
+            background-color: antiquewhite;
+            width: 550px;
+            height: fit-content;
+            border: solid 2px #000;
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px;
+        }
+
+        .caixa {
+            background-color:  rgb(170, 79, 125);
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+        }
+
+        .titulo {
+            font-family: cursive;
+        }
+
+        .nome {
+            color: rgb(79, 102, 170);
+            font-size: 45px;
+        }
+
+        .mensagem {
+            font-family: cursive;
+        }
+
+        .cor_padrao {
+            font-size: 25px;
+            color: royalblue;
+        }
